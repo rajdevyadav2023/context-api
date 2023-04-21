@@ -1,9 +1,11 @@
 import React from 'react'
+import CompC from './CompC'
 
-const CompB = () => {
+const CompB = ({data}) => {
   return (
-    <div>
-      <h1>this is b component</h1>
+    <div className='comp-b'>
+      <p>this is b component</p>
+      <CompC data={data}/>
     </div>
   )
 }

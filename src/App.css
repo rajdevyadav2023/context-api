@@ -7,3 +7,35 @@
 body{
   background-color: #f1f1ff;
 }
+.header{
+  background-color: white;
+  color: #098;
+  padding: 1rem;
+  margin-bottom: 3rem;
+  box-shadow: 0px 0px 10px #80808081, 0px 0px 20px #80808066;
+}
+.home{
+  background-color: pink;
+  padding: 2rem;
+  color: white;
+}
+.comp-a{
+  background-color: #1e8fff54;
+  padding: 2rem;
+  margin: 1rem;
+}
+.comp-b{
+  background-color: #00800053;
+  padding: 2rem;
+  margin: 1rem;
+}
+.comp-c{
+  background-color: #ffff005a;
+  padding: 2rem;
+  margin: 1rem;
+}
+.comp-c h2{
+  background-color: #ff000054;
+  padding: 2rem;
+  margin: 1rem;
+}
